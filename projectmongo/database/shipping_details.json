@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "60181721d703200fd8155576"
+  },
+  "id": 1,
+  "name": "Sanja Milosevic",
+  "address": "Sremska 18",
+  "postal_code": 1800,
+  "city": "Nis",
+  "book_name": "Ilon Mask: Tesla, SpaceX i potraga za fantasticnom buducnoscu",
+  "phone": 1551881,
+  "f_id": "sanja"
+},{
+  "_id": {
+    "$oid": "6018176bd703200fd8155577"
+  },
+  "id": 2,
+  "name": "Miroslav Ilic ",
+  "address": "Visegradska 33",
+  "postal_code": 18000,
+  "city": "Nis",
+  "book_name": "Digitalno zlato - Natanijel Poper",
+  "phone": 1551881,
+  "f_id": "miki"
+}]

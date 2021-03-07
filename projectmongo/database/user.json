@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6018220ee5476f0dd04d4881"
+  },
+  "u_id": 1,
+  "u_fnm": "Ivica Tasic",
+  "u_unm": "ivica",
+  "u_pwd": "ivica",
+  "u_gender": "Male",
+  "u_email": "ivica@gmail.com",
+  "u_contact": "0611151",
+  "u_city": "Lebane"
+},{
+  "_id": {
+    "$oid": "60182242e5476f0dd04d4882"
+  },
+  "u_id": 2,
+  "u_fnm": "Nikola Golubovic",
+  "u_unm": "golub",
+  "u_pwd": "golub",
+  "u_gender": "Male",
+  "u_email": "golub@gmail.com",
+  "u_contact": "0611151",
+  "u_city": "Zajecar"
+},{
+  "_id": {
+    "$oid": "60182275e5476f0dd04d4883"
+  },
+  "u_id": 3,
+  "u_fnm": "Miki Mikic",
+  "u_unm": "miki",
+  "u_pwd": "miki",
+  "u_gender": "Male",
+  "u_email": "miki@gmail.com",
+  "u_contact": "065151151",
+  "u_city": "Nis"
+},{
+  "_id": {
+    "$oid": "601822a6e5476f0dd04d4884"
+  },
+  "u_id": 4,
+  "u_fnm": "admin",
+  "u_unm": "admin",
+  "u_pwd": "admin",
+  "u_gender": "Female",
+  "u_email": "admin@gmail.com",
+  "u_contact": "0611151",
+  "u_city": "Beograd"
+}]

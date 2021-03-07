@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "6018184dd703200fd8155578"
+  },
+  "subcat_id": 1,
+  "parent_id": 1,
+  "subcat_nm": "Programiranje"
+},{
+  "_id": {
+    "$oid": "60181862d703200fd8155579"
+  },
+  "subcat_id": 2,
+  "parent_id": 1,
+  "subcat_nm": "Kriptografija"
+},{
+  "_id": {
+    "$oid": "60181876d703200fd815557a"
+  },
+  "subcat_id": 3,
+  "parent_id": 1,
+  "subcat_nm": "Internet"
+},{
+  "_id": {
+    "$oid": "601818a6d703200fd815557b"
+  },
+  "subcat_id": 4,
+  "parent_id": 2,
+  "subcat_nm": "Savremena psihologija"
+},{
+  "_id": {
+    "$oid": "601818c6d703200fd815557c"
+  },
+  "subcat_id": 5,
+  "parent_id": 2,
+  "subcat_nm": "Pravilno odrastanje"
+},{
+  "_id": {
+    "$oid": "601818eed703200fd815557d"
+  },
+  "subcat_id": 6,
+  "parent_id": 3,
+  "subcat_nm": "I i II svetski rat"
+},{
+  "_id": {
+    "$oid": "60181903d703200fd815557e"
+  },
+  "subcat_id": 7,
+  "parent_id": 3,
+  "subcat_nm": "Stara grcka"
+},{
+  "_id": {
+    "$oid": "60181919d703200fd815557f"
+  },
+  "subcat_id": 8,
+  "parent_id": 3,
+  "subcat_nm": "Velika otkrica"
+},{
+  "_id": {
+    "$oid": "60181942d703200fd8155580"
+  },
+  "subcat_id": 9,
+  "parent_id": 4,
+  "subcat_nm": "Kosarka"
+},{
+  "_id": {
+    "$oid": "60181953d703200fd8155581"
+  },
+  "subcat_id": 10,
+  "parent_id": 4,
+  "subcat_nm": "Fudbal"
+},{
+  "_id": {
+    "$oid": "60181976d703200fd8155582"
+  },
+  "subcat_id": 11,
+  "parent_id": 4,
+  "subcat_nm": "Trileri"
+},{
+  "_id": {
+    "$oid": "60181988d703200fd8155583"
+  },
+  "subcat_id": 12,
+  "parent_id": 4,
+  "subcat_nm": "Ljubavni romani"
+},{
+  "_id": {
+    "$oid": "601819a3d703200fd8155584"
+  },
+  "subcat_id": 13,
+  "parent_id": 5,
+  "subcat_nm": "Klasici"
+},{
+  "_id": {
+    "$oid": "601819b4d703200fd8155585"
+  },
+  "subcat_id": 14,
+  "parent_id": 5,
+  "subcat_nm": "Biografije"
+}]

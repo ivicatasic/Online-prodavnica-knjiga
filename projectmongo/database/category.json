@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "60181423d703200fd815556c"
+  },
+  "cat_id": 1,
+  "cat_nm": "IT"
+},{
+  "_id": {
+    "$oid": "60181436d703200fd815556d"
+  },
+  "cat_id": 2,
+  "cat_nm": "Psihologija"
+},{
+  "_id": {
+    "$oid": "60181449d703200fd815556e"
+  },
+  "cat_id": 3,
+  "cat_nm": "Istorija"
+},{
+  "_id": {
+    "$oid": "60181477d703200fd8155570"
+  },
+  "cat_id": 4,
+  "cat_nm": "Sport"
+},{
+  "_id": {
+    "$oid": "6018148ad703200fd8155571"
+  },
+  "cat_id": 5,
+  "cat_nm": "Knjizevnost"
+}]
